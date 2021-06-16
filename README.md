@@ -27,8 +27,8 @@ Since resource '4' resides at [1][1] and [2][1] it returns a deadlock count of 1
 
 Case 2 - The user specifies a total of 4 processes,while allocating 12 resources 
 - After allocation,the structured filesystem is displayed
-
 - It is observed that resource '6' is not allocated to any process
+
 ![Output 3](https://user-images.githubusercontent.com/77625109/122252032-aae80900-cee8-11eb-8e7a-60c3f31aac93.png)
 
 - After analysing the filesystem,the program displays that there are no deadlocks
