@@ -18,7 +18,7 @@ Case 1 -The user specifies 3 columns for the filesystem,while providing an input
 
 - These processes are mapped to resources A,B and C
 - The user now provides a resource (4),to check for an occurance of deadlock 
-- 
+
 ![Output1](https://user-images.githubusercontent.com/77625109/122248958-154b7a00-cee6-11eb-84e4-6f80ab1d068e.png)
 
 Since resource '4' resides at [1][1] and [2][1] it returns a deadlock count of 1
@@ -27,6 +27,7 @@ Since resource '4' resides at [1][1] and [2][1] it returns a deadlock count of 1
 
 Case 2 - The user specifies a total of 4 processes,while allocating 12 resources 
 - After allocation,the structured filesystem is displayed
+
 - It is observed that resource '6' is not allocated to any process
 ![Output 3](https://user-images.githubusercontent.com/77625109/122252032-aae80900-cee8-11eb-8e7a-60c3f31aac93.png)
 
