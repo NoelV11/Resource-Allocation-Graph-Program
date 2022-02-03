@@ -1,5 +1,5 @@
 # Resource-Allocation-Graph-Program
-This program aims to mimic the functionality of an OS,to generate a Resouce Allocation Graph,to give an idea of what resources are allocated to what processes
+This program aims to mimic the functionality of an OS,to generate a Resouce Allocation Graph,to give an idea of what resources are allocated to what processes.
 
 
 ## Functionality of the Program
